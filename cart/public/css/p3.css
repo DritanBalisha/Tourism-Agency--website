@@ -1,0 +1,47 @@
+
+  /* services */
+
+.services .box-ner{
+    display: flex;
+    flex-wrap: wrap;
+    gap:1.5rem;
+  }
+  
+  .services .box-ner .box{
+    flex: 1 1 30rem;
+    border-radius: .5rem;
+    padding:1rem;
+    text-align: center;
+  }
+  
+  .services .box-ner .box i{
+    padding:1rem;
+    font-size: 5rem;
+    color: #4dafca;
+  }
+  
+  .services .box-ner .box h3{
+    font-size: 2.5rem;
+    color:#1a3f61;
+  }
+  
+  .services .box-ner .box p{
+    font-size: 1.5rem;
+    color:#4d5167;
+    padding:1rem 0;
+  }
+  
+  .services .box-ner .box:hover{
+    box-shadow: 0 1rem 2rem rgba(0,0,0,.1);
+  }
+ 
+  .services h1 {
+    font-family: "Kaushan Script";
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    line-height: 3;
+    margin: 50px;
+    padding-left: 22px;
+    color: #C09D73;
+}
+
